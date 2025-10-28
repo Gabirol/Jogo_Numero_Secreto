@@ -7,9 +7,7 @@ O projeto inclui recursos de **narrativa por voz (Web Speech API)** e interface 
 
 ## 🖼️ Preview
 
-![Preview do jogo](.img\Video_jogo_numero_secreto.gif)
-
-*(Adicione aqui uma captura de tela ou gif mostrando o jogo em ação)*
+![Preview do jogo](./img/preview.gif)
 
 ---
 

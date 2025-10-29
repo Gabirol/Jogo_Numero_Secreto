@@ -7,7 +7,7 @@ O projeto inclui recursos de **narrativa por voz (Web Speech API)** e interface 
 
 ## 🖼️ Preview
 
-![Preview do jogo](./img/preview.gif)
+![Preview](https://github.com/user-attachments/assets/cb0c1779-2691-4fb1-b2aa-652f1416d123)
 
 ---
 

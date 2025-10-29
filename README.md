@@ -45,7 +45,7 @@ O projeto foi criado para **praticar lógica de programação em JavaScript**, *
 ## ⚙️ Como executar o projeto
 
 ### 🔹 Executar localmente
-### 🔹No navegador: [https://jogo-numero-secreto-sigma-brown.vercel.app/](https://jogo-numero-secreto-sigma-brown.vercel.app/)
+### 🔹No navegador: [Jogo do numero Secreto](https://jogo-numero-secreto-sigma-brown.vercel.app/)
 
 1. Clone este repositório:
    ```bash

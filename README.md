@@ -45,8 +45,8 @@ O projeto foi criado para **praticar lógica de programação em JavaScript**, *
 ## ⚙️ Como executar o projeto
 
 ### 🔹 Executar localmente
-### 🔹No navegador: [Jogo do numero Secreto](https://jogo-numero-secreto-sigma-brown.vercel.app/)
-
 1. Clone este repositório:
    ```bash
    git clone https://git@github.com:Gabirol/Jogo_Numero_Secreto.git
+   
+### 🔹No navegador: [Jogo do numero Secreto](https://jogo-numero-secreto-sigma-brown.vercel.app/)
